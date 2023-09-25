@@ -26,7 +26,6 @@ The project involves the following steps:
 ## Credits
 This project was developed by [Prasanna Kumar]. If you find this project useful or have any suggestions for improvements, feel free to reach out at [kumar22maran@gmail.com].
 
-Special Thanks to https://github.com/campusx-official for providing me assistance through your interactive tutorials.
 
 
 
